@@ -1,11 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Mehedi Hasan
+Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am MEHEDI HASAN
 =================================================================================================================================
-
-Full Stack Javascript and React JS Developer.
+Frontend JavaScript and React JS Developer.
 -------------------------------------------
 
-I've been working as a frontend developer for the past 2 years during this journey 🚀 I've discovered a lot, but I am still hungry for learning as new technologies are appearing faster than I sleep and wake up. Now my goal is to be a master in back-end development as well as to join an active and creative team where I can show up the little knowledge that I got past 2 years.🤘
-
+I've been working as a frontend developer for the past two years during this journey 🚀 I've discovered a lot, but I am still hungry for learning as new technologies are appearing faster than I sleep and wake up. Now my goal is to be a master in back-end development as well as to join an active and creative team where I can show the little knowledge that I have over the past two years.🤘
 
 🌍I am currently located in Dhaka. </br>
 ✉️You may contact me via email at [informmehedi@gmail.com](mailto:informmehedi@gmail.com)</br>

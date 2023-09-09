@@ -5,10 +5,10 @@ Frontend JavaScript and React JS Developer.
 
 I've been working as a frontend developer for the past two years during this journey 🚀 I've discovered a lot, but I am still hungry for learning as new technologies are appearing faster than I sleep and wake up. Now my goal is to be a master in back-end development as well as to join an active and creative team where I can show the little knowledge that I have over the past two years.🤘
 
-🌍I am currently located in Dhaka. </br>
-✉️You may contact me via email at [informmehedi@gmail.com](mailto:informmehedi@gmail.com)</br>
-🧠I am actively engaged in the process of learning and improving my skills in JavaScript and Python development.</br>
-🤝I am open to collaborating on projects, both in the realm of Frontend and Full Stack development. Please feel free to reach out for potential collaborations or discussions.
+🌍 I am currently located in Dhaka. </br>
+✉️ You may contact me via email at [informmehedi@gmail.com](mailto:informmehedi@gmail.com)</br>
+🧠 I am actively engaged in the process of learning and improving my skills in JavaScript and Python development.</br>
+🤝 I am open to collaborating on projects, both in the realm of Frontend and Full Stack development. Please feel free to reach out for potential collaborations or discussions.
 
 ### My Skills
 <p align="left">

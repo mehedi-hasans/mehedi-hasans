@@ -37,12 +37,16 @@ I've been working as a frontend developer for the past two years during this jou
 
 ### Socials Links
 <p align="left">
-<a href="https://codepen.io/mehedihasans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mehedihasans" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehedi-hasans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi-hasans" height="30" width="40" /></a>
+<a href="https://codepen.io/mehedihasans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mehedihasans" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22520312/mehedi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22520312/mehedi-hasan" height="30" width="40" /></a>
+<a href="https://fb.com/themehedi4595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="themehedihasans" height="30" width="40" /></a>
+<a href="https://instagram.com/themehedihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themehedihasans" height="30" width="40" /></a>
 <a href="https://dribbble.com/themehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="themehedi" height="30" width="40" /></a>
 <a href="https://www.behance.net/themehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="themehedi" height="30" width="40" /></a>
 <a href="https://medium.com/@mehedi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehedi-hasan" height="30" width="40" /></a>
-<a href="https://discord.gg/themehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="themehedi" height="30" width="40" /></a>
+<a href="https://discord.gg/themehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="themehedi" height="30" width="40" /></a>
+<a href="https://twitter.com/themehedihasans" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="themehedihasans" height="30" width="40" /></a>
+
 </p>
 

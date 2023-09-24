@@ -1,4 +1,8 @@
-Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am MEHEDI HASAN
+<img src="https://i.ibb.co/Zx5sBZw/Mehedi-Hasan-Linked-In-Cover.jpg"/> <br/>
+
+
+
+Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am MEHEDI HASAN
 =================================================================================================================================
 Frontend JavaScript and React JS Developer.
 -------------------------------------------
